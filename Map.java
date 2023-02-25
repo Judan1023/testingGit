@@ -4,10 +4,11 @@ public class Map {
    public static void main(String[]args) {
 	   HashMap<Integer,String> ll=new HashMap<Integer,String>();
 	   
+         ll.put(0,"this");
 	   ll.put(1,"Jack");
 	   ll.put(2,"Ram");
 	   ll.put(3,"Jay");
-	   ll.put(4,"Joy");
+	   
 	   System.out.println(ll);
 	   
 	   System.out.println(ll.get(3));
@@ -20,3 +21,4 @@ public class Map {
 	  
    }
 }
+
