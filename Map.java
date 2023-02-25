@@ -6,7 +6,7 @@ public class Map {
 	   
          ll.put(0,"this");
 	   ll.put(1,"Jack");
-	   ll.put(2,"Ram");
+	   ll.put(17,"Floid");
 	   ll.put(3,"Jay");
 	   
 	   System.out.println(ll);
